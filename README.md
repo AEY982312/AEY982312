@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-yang-78bb8b197/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://www.linkedin.com/in/aaron-y-78bb8b197/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
