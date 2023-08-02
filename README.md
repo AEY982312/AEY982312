@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-yang">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://linkedin.com/in/aaron-yang-78bb8b197/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,4 +10,4 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/AEY982312/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AEY982312/azure-network-protocols)
 
-[linkedin]: https://www.linkedin.com/in/aaron-yang
+[linkedin]: https://www.linkedin.com/in/aaron-yang-78bb8b197/
